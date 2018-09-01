@@ -6,6 +6,7 @@ public class cool {
 		// TODO Auto-generated method stub
 System.out.println("Good");
 System.out.println("world");
+System.out.println("hot");
 	}
 
 }
